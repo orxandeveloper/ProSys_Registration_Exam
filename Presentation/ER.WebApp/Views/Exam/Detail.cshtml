@@ -1,0 +1,25 @@
+﻿@model ExamVM
+
+@{
+    ViewData["Title"] = "Exam Details";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm border-0">
+        <div class="card-header bg-primary text-white">
+            <h4>İmtahan Nəticəsi</h4>
+        </div>
+        <div class="card-body">
+            
+         
+            <p><strong>Dərsin kodu :</strong> @Model.CourseCode</p>
+            <p><strong>Şagirdin nömrəsi :</strong> @Model.StudentNumber</p>
+             
+            <p><strong>İmtahan tarixi :</strong> @Model.ExamDate?.ToString("yyyy-MM-dd")</p>
+            <p><strong>Qiyməti:</strong> @Model.Grade</p>
+        </div>
+        <div class="card-footer text-end">
+            <a href="@Url.Action("List")" class="btn btn-primary">Geriyə</a>
+        </div>
+    </div>
+</div>

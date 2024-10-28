@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\bin\Debug\net6.0\ER.Presistance.deps.json
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\bin\Debug\net6.0\ER.Presistance.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\bin\Debug\net6.0\ER.Presistance.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\bin\Debug\net6.0\ER.Application.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\bin\Debug\net6.0\ER.Domain.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\bin\Debug\net6.0\ER.Application.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\bin\Debug\net6.0\ER.Domain.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ER.Presistance.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ER.Presistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ER.Presistance.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ER.Presistance.AssemblyInfo.cs
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ER.Presistance.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ER.Presistance.csproj.CopyComplete
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ER.Presistance.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\refint\ER.Presistance.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ER.Presistance.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Presistance\obj\Debug\net6.0\ref\ER.Presistance.dll

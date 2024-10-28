@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\bin\Debug\net6.0\ER.Domain.deps.json
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\bin\Debug\net6.0\ER.Domain.runtimeconfig.json
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\bin\Debug\net6.0\ER.Domain.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\bin\Debug\net6.0\ER.Domain.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ER.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ER.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ER.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ER.Domain.AssemblyInfo.cs
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ER.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ER.Domain.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\refint\ER.Domain.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ER.Domain.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ER.Domain.genruntimeconfig.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Core\ER.Domain\obj\Debug\net6.0\ref\ER.Domain.dll

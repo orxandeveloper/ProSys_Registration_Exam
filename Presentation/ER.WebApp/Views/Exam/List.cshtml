@@ -1,0 +1,35 @@
+﻿@model List<ExamVM>
+
+@{
+    ViewData["Title"] = "Exam List";
+}
+
+<h2>İmtahanlar</h2>
+<a href="/Exam/Create" class="btn btn-primary float-end">Yeni İmtahan</a>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            
+            
+            <th>Şagirdin nömrəsi </th>
+            <th>Dərsin kodu </th>
+           
+            <th>İmtahan tarixi </th>
+            <th>Qiyməti</th>
+             
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var exam in Model)
+        {
+            <tr>
+
+                <td><a href="Exam/Detail/@exam.Id">@exam.StudentNumber</a></td>
+                <td><a href="Exam/Detail/@exam.Id">@exam.CourseCode</a></td> 
+                <td><a href="Exam/Detail/@exam.Id">@exam.ExamDate?.ToString("yyyy-MM-dd")</a></td>
+                <td><a href="Exam/Detail/@exam.Id">@exam.Grade</a></td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

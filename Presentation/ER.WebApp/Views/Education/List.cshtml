@@ -1,0 +1,33 @@
+﻿@model List<CourseVM>
+
+@{
+    ViewData["Title"] = "Courses List";
+}
+
+<h2>Dərslər</h2>
+<a asp-action="Create" class="btn btn-primary float-end">Yeni Dərs</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+           
+            <th>Dərsin kodu </th>
+            <th>Dərsin adı</th>
+            <th>Sinifi </th>
+            <th>Dərsi verən müəllimin adı</th>
+            <th>Dərsi verən müəlimin soyadı </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr >
+                @*<td>@course.Id</td>*@
+                <td ><a href="Education/Detail/@course.Id">@course.CourseCode</a></td>
+                <td><a href="Education/Detail/@course.Id">@course.CourseName</a></td>
+                <td><a href="Education/Detail/@course.Id">@course.GradeLevel</a></td>
+                <td><a href="Education/Detail/@course.Id">@course.TeacherFirstName</a></td>
+                <td><a href="Education/Detail/@course.Id">@course.TeacherLastName</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

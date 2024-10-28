@@ -1,0 +1,24 @@
+﻿@model CourseVM
+
+@{
+    ViewData["Title"] = "Course Details";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm border-0">
+        <div class="card-header bg-primary text-white">
+            <h4>Dərs haqqında</h4>
+        </div>
+        <div class="card-body">
+          
+            <p><strong>Dərsin kodu: </strong> @Model.CourseCode</p>
+            <p><strong>Dərsin adı: </strong> @Model.CourseName</p>
+            <p><strong>Sinifi: </strong> @Model.GradeLevel</p>
+            <p><strong>Dərsi verən müəllimin adı:</strong> @Model.TeacherFirstName</p>
+            <p><strong>Dərsi verən müəlimin soyadı :</strong> @Model.TeacherLastName</p>
+        </div>
+        <div class="card-footer text-end">
+            <a href="@Url.Action("List")" class="btn btn-primary">Back to Course List</a>
+        </div>
+    </div>
+</div>

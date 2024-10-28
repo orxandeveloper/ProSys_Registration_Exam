@@ -1,0 +1,48 @@
+﻿@model ExamVM
+
+@{
+    ViewData["Title"] = "Create Exam";
+}
+
+<h2>Yeni İmtahan</h2>
+
+<form asp-action="Create" method="post" class="col-md-5">
+    <div class="form-group">
+        <label asp-for="StudentId" class="control-label">Şagird</label>
+        <select asp-for="StudentId" class="form-control">
+            <option value="">Şagird Seçin</option>
+            @foreach (var student in Model.Students)
+            {
+                <option value="@student.Id">@student.FirstName</option>
+            }
+        </select>
+        <span asp-validation-for="StudentId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CourseId" class="control-label">Dərs</label>
+        <select asp-for="CourseId" class="form-control">
+            <option value="">Dərs Seçin</option>
+            @foreach (var course in Model.Courses)
+            {
+                <option value="@course.Id">@course.CourseName</option>
+            }
+        </select>
+        <span asp-validation-for="CourseId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ExamDate" class="control-label">İmtahan tarixi</label>
+        <input asp-for="ExamDate" class="form-control" type="date" />
+        <span asp-validation-for="ExamDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Grade" class="control-label">Qiyməti</label>
+        <input asp-for="Grade" class="form-control" type="number" />
+        <span asp-validation-for="Grade" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Yenisini əlave et</button>
+     
+</form>

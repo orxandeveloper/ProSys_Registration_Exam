@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\bin\Debug\net6.0\ER.Infra.deps.json
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\bin\Debug\net6.0\ER.Infra.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\bin\Debug\net6.0\ER.Infra.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\bin\Debug\net6.0\ER.Application.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\bin\Debug\net6.0\ER.Domain.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\bin\Debug\net6.0\ER.Application.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\bin\Debug\net6.0\ER.Domain.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ER.Infra.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ER.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ER.Infra.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ER.Infra.AssemblyInfo.cs
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ER.Infra.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ER.Infra.csproj.CopyComplete
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ER.Infra.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\refint\ER.Infra.dll
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ER.Infra.pdb
+C:\Users\admin\Documents\Test_For_Pro_Sys\Exam_Registration\Infra\ER.Infra\obj\Debug\net6.0\ref\ER.Infra.dll

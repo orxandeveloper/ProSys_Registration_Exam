@@ -1,0 +1,41 @@
+﻿@model CourseVM
+
+@{
+    ViewData["Title"] = "Create Course";
+}
+
+<h2>Yeni Dərs Qeydiyyat edin </h2>
+
+<form asp-action="Create" method="post" class="col-md-5">
+    <div class="form-group">
+        <label asp-for="CourseCode" class="control-label">Dərsin kodu </label>
+        <input asp-for="CourseCode" class="form-control" />
+        <span asp-validation-for="CourseCode" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CourseName" class="control-label">Dərsin adı </label>
+        <input asp-for="CourseName" class="form-control" />
+        <span asp-validation-for="CourseName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GradeLevel" class="control-label">Sinifi</label>
+        <input asp-for="GradeLevel" class="form-control" type="number" />
+        <span asp-validation-for="GradeLevel" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TeacherFirstName" class="control-label">Dərsi verən müəllimin adı</label>
+        <input asp-for="TeacherFirstName" class="form-control" />
+        <span asp-validation-for="TeacherFirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TeacherLastName" class="control-label">Dərsi verən müəlimin soyadı </label>
+        <input asp-for="TeacherLastName" class="form-control" />
+        <span asp-validation-for="TeacherLastName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Qeydiyyat et</button>
+</form>
